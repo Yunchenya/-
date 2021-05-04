@@ -5,7 +5,7 @@ Be careful:This is not a place to disclose any open source projects, but only a 
 
 ## 嗷呜大陆服务器
 
-!> 服务器网站 官网(https://www.aowudalu.cn/) 皮肤站(https://aowudalu.cn/) 论坛(https://www.aowudalu.cn/)
+!> 服务器网站 https://www.aowudalu.cn/(官网) 皮肤站(https://aowudalu.cn/) 论坛(https://www.aowudalu.cn/)
 
 
 ## BUG处理
